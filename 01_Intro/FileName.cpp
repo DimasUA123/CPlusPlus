@@ -12,7 +12,6 @@ void main()
 
 
 
-
     //cout << "I\n\tLove\n\t\tYou\n\t\t\tC++!";
 
     //cout << "\t...:::Resume:::...\nName\t\tIvan\nSurname\t\tIvanov\nLast name:\tIvanovich\n\nDate of birth:\t22.06.06\nCity:\t\tRivne\nAge:\t\t17\nHobby:\t\tC++";
