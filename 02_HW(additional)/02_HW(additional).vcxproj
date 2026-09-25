@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4e0053cc-468a-4100-ab8c-64f58f312dbb}</ProjectGuid>
-    <RootNamespace>My02LogicOperators</RootNamespace>
+    <ProjectGuid>{1c495f38-e7a1-4bee-927a-ab1121bf0a3e}</ProjectGuid>
+    <RootNamespace>My02HWadditional</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>02_LogicOperators(HW)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="02_HW.cpp" />
+    <ClCompile Include="02_HW(additional).cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
