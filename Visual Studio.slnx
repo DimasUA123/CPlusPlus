@@ -5,4 +5,5 @@
   </Configurations>
   <Project Path="01_HW/01_HW.vcxproj" Id="a096017a-eedc-4a93-92da-e614c9ba4ea3" />
   <Project Path="01_Intro/01_Intro.vcxproj" Id="a57a8888-2035-4601-9963-c0d3cabc4dd8" />
+  <Project Path="02_LogicOperators/02_LogicOperators.vcxproj" Id="4e0053cc-468a-4100-ab8c-64f58f312dbb" />
 </Solution>
