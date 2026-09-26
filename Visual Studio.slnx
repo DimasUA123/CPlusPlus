@@ -7,4 +7,5 @@
   <Project Path="01_Intro/01_Intro.vcxproj" Id="a57a8888-2035-4601-9963-c0d3cabc4dd8" />
   <Project Path="02_HW(additional)/02_HW(additional).vcxproj" Id="1c495f38-e7a1-4bee-927a-ab1121bf0a3e" />
   <Project Path="02_LogicOperators/02_LogicOperators.vcxproj" Id="4e0053cc-468a-4100-ab8c-64f58f312dbb" />
+  <Project Path="03_EnumCycles/03_EnumCycles.vcxproj" Id="1f4c4fb4-0395-4ad7-9281-a85c488ea1cb" />
 </Solution>
