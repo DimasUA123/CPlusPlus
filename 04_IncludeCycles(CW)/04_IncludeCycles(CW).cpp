@@ -146,11 +146,11 @@ int main()
 
     // 10
     cout << " -- 10" << endl;
-    for (int i = 0; i < 10; i++)
+    for (int i = 0; i <= 10; i++)
     {
-        for (int j = 0; j < 10; j++)
+        for (int j = 0; j <= 10; j++)
         {
-            if (i + j >= 10 - 1)
+            if (i + j >= 11 - 1)
                 cout << "* ";
             else
                 cout << "  ";
