@@ -9,4 +9,5 @@
   <Project Path="02_LogicOperators/02_LogicOperators.vcxproj" Id="4e0053cc-468a-4100-ab8c-64f58f312dbb" />
   <Project Path="03_Cycles(HW + additional)/03_Cycles(HW).vcxproj" Id="9d3a73d1-ce9c-4391-8f3b-f65dcf2d5d40" />
   <Project Path="03_EnumCycles/03_EnumCycles.vcxproj" Id="1f4c4fb4-0395-4ad7-9281-a85c488ea1cb" />
+  <Project Path="04_IncludeCycles/04_IncludeCycles.vcxproj" Id="17577e0a-371c-4593-b72b-f168deed21b3" />
 </Solution>
