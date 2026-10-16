@@ -13,4 +13,5 @@
   <Project Path="05_Array(HW)/05_Array.vcxproj" Id="521aeddb-7d23-4a2e-b36e-73f51a46b1ea" />
   <Project Path="06_RandomTwoDemensionArray(CW)/06_RandomTwoDemensionArray(CW).vcxproj" Id="72fc9c81-5a73-45e0-ae0f-03de1990011f" />
   <Project Path="06_RandomTwoDemensionArray/06_RandomTwoDemensionArray.vcxproj" Id="a15b9888-e2fb-496d-8574-ade8548b29eb" />
+  <Project Path="07_Function(HW)/07_Function(HW).vcxproj" Id="7edc786c-6d83-4dc1-8b91-6e54144b1389" />
 </Solution>
