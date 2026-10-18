@@ -167,7 +167,7 @@ int main()
 
 
 //                       ---Додаткові задачі---
-// Завдання 7(недороблена) 
+// Завдання 7 (незроблена!) 
 
 /*#include <string>
 void ShowDate(int d1, int m1, int y1, int d2, int m2, int y2)
